@@ -1,0 +1,33 @@
+
+
+
+
+
+					Developed by Hasnain Haider
+<------------------------------------------------------------------------------------------------------------->
+
+1. Install the game on your desired location.
+
+2. The pre-selected location is difficult to find so it is highly suggested that you can select your own choice
+   of location.
+
+3. Game will become more difficult step by step when you move to the next level.
+  
+4. After installetion follow the following steps
+
+	1. Go the the folder where you installed this Game
+	2. Go to "lib" Folder and at the end you will find "VCRUNTIME140.dll" file.
+	3. Copy this file and paste it in the main folder (Go back to the main folder and paste it.
+	4. Enjoy !!!!!!
+
+
+<------------------------------------------------------------------------------------------------------------->
+
+						Controls
+
+
+1. To move left and right use "Left" and "Right" arrow keys.
+
+2. To Shoot alien use "spacebar" key to shoot.
+
+3. To exit game use "Q" key to exit game. 
